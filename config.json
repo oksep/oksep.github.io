@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
-		"favicon": "favicon.ico"
+		"title": "Sep's Website",
+		"description": "Sep's personal website",
+		"favicon": "assets/favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
-		"subtitle": "Front back left right end engineer",
+		"title": "Septenary",
+		"subtitle": "Rage, rage against the dying of the light",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"name": "Septenary",
+		"signature": "It is always morning somewhere in the world.",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -21,7 +21,7 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.septenary.cn",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:ryfthink@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/oksep",
 				"icon": "github",
 				"text": "Github"
 			}
