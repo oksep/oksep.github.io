@@ -1,5 +1,8 @@
 > forked from [一个坏掉的番茄](https://github.com/tomotoes/homepage)
 
+## website
+https://www.septenary.cn
+
 ## install deps
 
 ```shell
