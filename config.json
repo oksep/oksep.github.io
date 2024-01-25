@@ -39,6 +39,16 @@
 				"href": "https://github.com/oksep",
 				"icon": "github",
 				"text": "Github"
+			},
+			"fifth": {
+				"href": "https://wxgen.septenary.cn",
+				"icon": "wechat",
+				"text": "WXGen"
+			},
+			"sixth": {
+				"href": "https://wxgen.septenary.cn",
+				"icon": "wechat",
+				"text": "WXGen"
 			}
 		}
 	}
