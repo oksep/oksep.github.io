@@ -10,7 +10,7 @@
       <div id="c1"></div>
 <script>
 var Stat = G2.Stat;
-$.getJSON('../../../static/data/mobile.json',function (data) {
+$.getJSON('./config.json',function (data) {
 // 因为只有第一层的手机数据存在品牌（brand）字段，所以，将所有手机型号，增加brand字段
 function processData (data) {
 for(var i = 0; i < data.length ; i++) {
