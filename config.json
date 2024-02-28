@@ -6,14 +6,14 @@
 	},
 	"intro": {
 		"title": "Septenary",
-		"subtitle": "Rage, rage against the dying of the light",
+		"subtitle": "Stay hungry, Stay foolish",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
 		"name": "Septenary",
-		"signature": "It is always morning somewhere in the world.",
+		"signature": "Stay hungry, Stay foolish.",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
