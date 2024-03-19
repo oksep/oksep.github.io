@@ -109,5 +109,24 @@
 				}
 			}
 		}
+
+		// footer {
+		// 	border-top: 1px solid rgba(255, 255, 255, 0.1);
+		// 	margin-top: 40px;
+		// 	padding-top: 20px;
+		// 	color: #1e80f7;
+		// 	font-size: 0.8rem;
+		// 	letter-spacing: 3px;
+		// }
+	}
+
+	.card-footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		padding: 20px 0;
+		// border-top: 1px solid rgba(255, 255, 255, 0.1);
+		color: #b6b6b6bd;
+		font-size: 0.5rem;
 	}
 }
