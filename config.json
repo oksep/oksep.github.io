@@ -6,14 +6,14 @@
 	},
 	"intro": {
 		"title": "Septenary",
-		"subtitle": "Stay hungry, Stay foolish",
+		"subtitle": "我们需要学会造火箭🚀，然后才能拧螺丝🔩",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
 		"name": "Septenary",
-		"signature": "Stay hungry, Stay foolish.",
+		"signature": "我们需要学会造火箭🚀，然后才能拧螺丝🔩",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
