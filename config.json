@@ -6,14 +6,14 @@
 	},
 	"intro": {
 		"title": "Septenary",
-		"subtitle": "我们需要学会造火箭🚀，然后才能拧螺丝🔩",
+		"subtitle": "Craft rocket 🚀 fristly, then tighten screws 🔩",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
 		"name": "Septenary",
-		"signature": "我们需要学会造火箭🚀，然后才能拧螺丝🔩",
+		"signature": "Craft rocket 🚀 fristly, then tighten screws 🔩",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -50,6 +50,9 @@
 				"icon": "wechat",
 				"text": "WXGen"
 			}
+		},
+		"footer": {
+			"content": "© 2024 Septenary"
 		}
 	}
 }
